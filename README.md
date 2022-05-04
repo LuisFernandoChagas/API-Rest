@@ -1,9 +1,53 @@
-# Getting Started
+<h1 align=center>
+    Bankline-API
+</h1>
 
-### Reference Documentation
-For further reference, please consider the following sections:
+<h3 align=center>
+    Objetivo
+</h3>
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/#build-image)
+- Realizar movimentações bancárias, de RECEITA e DESPESA.
 
+- Realizar cadastro de usuários, junto com sua conta do banco.
+
+- Realizar consultas gerais de todas as movimentações bancárias realizadas e usuários cadastrados.
+
+- Armazenar todas as movimentações bancárias realizadas e usuários cadastrados em um banco de dados.
+
+---
+
+<h3 align=center>
+    Em funcionamento
+</h3>
+
+- Adicionar novo usuário ao banco
+<img src="./src/fotos/Adicionar_novo_usuario_ao_banco.png">
+
+- Usuários cadastrados no banco
+<img src="./src/fotos/Usuarios_cadastrados_no_banco.png">
+
+- Inserir nova movimentação bancária
+<img src="./src/fotos/Inserir_movimentacao_bancaria.png">
+
+- Movimentações bancárias realizadas
+<img src="./src/fotos/Movimentacoes_bancarias_realizadas.png">
+
+
+---
+
+<h3 align=center>
+    Tecnologias utilizadas
+</h3>
+
+- [Java](https://www.java.com/pt-BR/)
+- [Maven](https://start.spring.io/)
+- [Spring-boot](https://spring.io/projects/spring-boot)
+- [MySQL](https://www.mysql.com/)
+
+---
+
+<h3 align=center>
+    Créditos
+</h3>
+
+- Projeto desenvolvido durante a Santander Dev Week 🚀
