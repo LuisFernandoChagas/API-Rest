@@ -21,16 +21,16 @@
 </h3>
 
 - Adicionar novo usuário ao banco
-<img src="./src/fotos/Adicionar_novo_usuario_ao_banco.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/assets/Adicionar_novo_usuario_ao_banco.png">
 
 - Usuários cadastrados no banco
-<img src="./src/fotos/Usuarios_cadastrados_no_banco.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/assets/Usuarios_cadastrados_no_banco.png">
 
 - Inserir nova movimentação bancária
-<img src="./src/fotos/Inserir_movimentacao_bancaria.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/assets/Inserir_movimentacao_bancaria.png">
 
 - Movimentações bancárias realizadas
-<img src="./src/fotos/Movimentacoes_bancarias_realizadas.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/assets/Movimentacoes_bancarias_realizadas.png">
 
 
 ---
