@@ -26,9 +26,8 @@ public class MovimentacaoService {
 		// Double valor = novaMovimentacao.getTipo() == MovimentacaoTipo.RECEITA ? novaMovimentacao.getValor() :  novaMovimentacao.getValor() * -1;
 		
 		Double valor = novaMovimentacao.getValor();
-		if(novaMovimentacao.getTipo() == MovimentacaoTipo.DESPESA) {
-			valor = valor * -1;
-		}
+		
+		if(novaMovimentacao.getTipo() == MovimentacaoTipo.DESPESA) valor = valor * -1;
 		
 		movimentacao.setDataHora(LocalDateTime.now());
 		movimentacao.setDescricao(novaMovimentacao.getDescricao());
