@@ -50,4 +50,4 @@
     Créditos
 </h3>
 
-- Projeto desenvolvido durante a Santander Dev Week 🚀
+- Projeto desenvolvido durante a Dio e Santander Dev Week 🚀
